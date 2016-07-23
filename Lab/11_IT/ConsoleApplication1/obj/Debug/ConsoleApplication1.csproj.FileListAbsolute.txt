@@ -1,0 +1,14 @@
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\CarCollection.dll
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\CarCollection.pdb
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\Couple.dll
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\Couple.pdb
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\Polindrom.dll
+E:\mnechai\Nechay_Mykola_11\ConsoleApplication1\bin\Debug\Polindrom.pdb

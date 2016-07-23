@@ -1,0 +1,12 @@
+E:\mnechai\Exceptions\ArrayException\bin\Debug\ArrayException.exe.config
+E:\mnechai\Exceptions\ArrayException\bin\Debug\ArrayException.exe
+E:\mnechai\Exceptions\ArrayException\bin\Debug\ArrayException.pdb
+E:\mnechai\Exceptions\ArrayException\obj\Debug\ArrayException.exe
+E:\mnechai\Exceptions\ArrayException\obj\Debug\ArrayException.pdb
+E:\mnechai\Exceptions\ArrayException\obj\Debug\ArrayException.csprojResolveAssemblyReference.cache
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\bin\Debug\ArrayException.exe.config
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\obj\Debug\ArrayException.exe
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\obj\Debug\ArrayException.pdb
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\bin\Debug\ArrayException.exe
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\bin\Debug\ArrayException.pdb
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\obj\Debug\ArrayException.csprojResolveAssemblyReference.cache

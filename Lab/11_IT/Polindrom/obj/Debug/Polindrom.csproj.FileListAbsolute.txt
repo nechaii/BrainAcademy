@@ -1,0 +1,7 @@
+E:\mnechai\Nechay_Mykola_11\Polindrom\bin\Debug\Polindrom.dll
+E:\mnechai\Nechay_Mykola_11\Polindrom\bin\Debug\Polindrom.pdb
+E:\mnechai\Nechay_Mykola_11\Polindrom\bin\Debug\ClassLibrary1.dll
+E:\mnechai\Nechay_Mykola_11\Polindrom\bin\Debug\ClassLibrary1.pdb
+E:\mnechai\Nechay_Mykola_11\Polindrom\obj\Debug\Polindrom.csprojResolveAssemblyReference.cache
+E:\mnechai\Nechay_Mykola_11\Polindrom\obj\Debug\Polindrom.dll
+E:\mnechai\Nechay_Mykola_11\Polindrom\obj\Debug\Polindrom.pdb

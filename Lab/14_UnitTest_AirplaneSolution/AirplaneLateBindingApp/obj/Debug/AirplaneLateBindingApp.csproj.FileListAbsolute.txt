@@ -1,0 +1,12 @@
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLateBindingApp\bin\Debug\AirplaneLateBindingApp.exe.config
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLateBindingApp\bin\Debug\AirplaneLateBindingApp.exe
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLateBindingApp\bin\Debug\AirplaneLateBindingApp.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLateBindingApp\obj\Debug\AirplaneLateBindingApp.exe
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLateBindingApp\obj\Debug\AirplaneLateBindingApp.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLateBindingApp\obj\Debug\AirplaneLateBindingApp.csprojResolveAssemblyReference.cache
+E:\mnechai\AirplaneSolution\AirplaneLateBindingApp\bin\Debug\AirplaneLateBindingApp.exe.config
+E:\mnechai\AirplaneSolution\AirplaneLateBindingApp\obj\Debug\AirplaneLateBindingApp.exe
+E:\mnechai\AirplaneSolution\AirplaneLateBindingApp\obj\Debug\AirplaneLateBindingApp.pdb
+E:\mnechai\AirplaneSolution\AirplaneLateBindingApp\bin\Debug\AirplaneLateBindingApp.exe
+E:\mnechai\AirplaneSolution\AirplaneLateBindingApp\bin\Debug\AirplaneLateBindingApp.pdb
+E:\mnechai\AirplaneSolution\AirplaneLateBindingApp\obj\Debug\AirplaneLateBindingApp.csprojResolveAssemblyReference.cache

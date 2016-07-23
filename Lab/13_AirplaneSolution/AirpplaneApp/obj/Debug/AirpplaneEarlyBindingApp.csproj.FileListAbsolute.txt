@@ -1,0 +1,10 @@
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\bin\Debug\AirpplaneApp.exe.config
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\obj\Debug\AirpplaneApp.exe
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\obj\Debug\AirpplaneApp.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\bin\Debug\AirpplaneApp.exe
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\bin\Debug\AirpplaneApp.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\bin\Debug\AirplaneLibrary.dll
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\bin\Debug\AirplaneBehavior.dll
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\bin\Debug\AirplaneLibrary.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\bin\Debug\AirplaneBehavior.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\obj\Debug\AirpplaneEarlyBindingApp.csprojResolveAssemblyReference.cache

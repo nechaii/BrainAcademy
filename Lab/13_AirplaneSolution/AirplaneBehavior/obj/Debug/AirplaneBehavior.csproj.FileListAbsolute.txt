@@ -1,0 +1,5 @@
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneBehavior\bin\Debug\AirplaneBehavior.dll
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneBehavior\bin\Debug\AirplaneBehavior.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneBehavior\obj\Debug\AirplaneBehavior.dll
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneBehavior\obj\Debug\AirplaneBehavior.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneBehavior\obj\Debug\AirplaneBehavior.csprojResolveAssemblyReference.cache

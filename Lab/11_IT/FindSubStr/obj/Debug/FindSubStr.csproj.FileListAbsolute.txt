@@ -1,0 +1,5 @@
+E:\mnechai\Nechay_Mykola_11\FindSubStr\bin\Debug\FindSubStr.exe.config
+E:\mnechai\Nechay_Mykola_11\FindSubStr\bin\Debug\FindSubStr.exe
+E:\mnechai\Nechay_Mykola_11\FindSubStr\bin\Debug\FindSubStr.pdb
+E:\mnechai\Nechay_Mykola_11\FindSubStr\obj\Debug\FindSubStr.exe
+E:\mnechai\Nechay_Mykola_11\FindSubStr\obj\Debug\FindSubStr.pdb

@@ -1,0 +1,5 @@
+E:\mnechai\MultithreadingAsyncProc\Manipulyator\bin\Debug\Manipulyator.exe.config
+E:\mnechai\MultithreadingAsyncProc\Manipulyator\bin\Debug\Manipulyator.exe
+E:\mnechai\MultithreadingAsyncProc\Manipulyator\bin\Debug\Manipulyator.pdb
+E:\mnechai\MultithreadingAsyncProc\Manipulyator\obj\Debug\Manipulyator.exe
+E:\mnechai\MultithreadingAsyncProc\Manipulyator\obj\Debug\Manipulyator.pdb

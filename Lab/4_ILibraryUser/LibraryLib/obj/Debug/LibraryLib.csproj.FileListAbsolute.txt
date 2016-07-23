@@ -1,0 +1,6 @@
+E:\mnechai\4_ILibraryUser\LibraryLib\obj\Debug\LibraryLib.csprojResolveAssemblyReference.cache
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryLib\bin\Debug\LibraryLib.dll
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryLib\bin\Debug\LibraryLib.pdb
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryLib\obj\Debug\LibraryLib.dll
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryLib\obj\Debug\LibraryLib.pdb
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryLib\obj\Debug\LibraryLib.csprojResolveAssemblyReference.cache

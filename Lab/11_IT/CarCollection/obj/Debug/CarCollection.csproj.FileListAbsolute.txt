@@ -1,0 +1,5 @@
+E:\mnechai\Nechay_Mykola_11\CarCollection\bin\Debug\CarCollection.dll
+E:\mnechai\Nechay_Mykola_11\CarCollection\bin\Debug\CarCollection.pdb
+E:\mnechai\Nechay_Mykola_11\CarCollection\obj\Debug\CarCollection.dll
+E:\mnechai\Nechay_Mykola_11\CarCollection\obj\Debug\CarCollection.pdb
+E:\mnechai\Nechay_Mykola_11\CarCollection\obj\Debug\CarCollection.csprojResolveAssemblyReference.cache

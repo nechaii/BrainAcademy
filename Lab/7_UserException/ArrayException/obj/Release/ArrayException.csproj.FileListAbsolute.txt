@@ -1,0 +1,6 @@
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\bin\Release\ArrayException.exe.config
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\bin\Release\ArrayException.exe
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\bin\Release\ArrayException.pdb
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\obj\Release\ArrayException.exe
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\obj\Release\ArrayException.pdb
+C:\BrainAcademy\Lab\Nechay_Mykola_7\ArrayException\obj\Release\ArrayException.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+E:\mnechai\Nechay_Mykola_6\Geometric_figures\bin\Debug\Geometric_figures.exe.config
+E:\mnechai\Nechay_Mykola_6\Geometric_figures\bin\Debug\Geometric_figures.exe
+E:\mnechai\Nechay_Mykola_6\Geometric_figures\bin\Debug\Geometric_figures.pdb
+E:\mnechai\Nechay_Mykola_6\Geometric_figures\obj\Debug\Geometric_figures.exe
+E:\mnechai\Nechay_Mykola_6\Geometric_figures\obj\Debug\Geometric_figures.pdb
+C:\BrainAcademy\Lab\Nechay_Mykola_6\Geometric_figures\bin\Debug\Geometric_figures.exe.config
+C:\BrainAcademy\Lab\Nechay_Mykola_6\Geometric_figures\obj\Debug\Geometric_figures.exe
+C:\BrainAcademy\Lab\Nechay_Mykola_6\Geometric_figures\obj\Debug\Geometric_figures.pdb
+C:\BrainAcademy\Lab\Nechay_Mykola_6\Geometric_figures\bin\Debug\Geometric_figures.exe
+C:\BrainAcademy\Lab\Nechay_Mykola_6\Geometric_figures\bin\Debug\Geometric_figures.pdb

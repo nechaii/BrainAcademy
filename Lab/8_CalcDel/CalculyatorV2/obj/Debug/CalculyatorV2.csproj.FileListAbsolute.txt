@@ -1,0 +1,5 @@
+E:\mnechai\Nechay_Mykola_8_CalcDel\CalculyatorV2\bin\Debug\CalculyatorV2.exe.config
+E:\mnechai\Nechay_Mykola_8_CalcDel\CalculyatorV2\bin\Debug\CalculyatorV2.exe
+E:\mnechai\Nechay_Mykola_8_CalcDel\CalculyatorV2\bin\Debug\CalculyatorV2.pdb
+E:\mnechai\Nechay_Mykola_8_CalcDel\CalculyatorV2\obj\Debug\CalculyatorV2.exe
+E:\mnechai\Nechay_Mykola_8_CalcDel\CalculyatorV2\obj\Debug\CalculyatorV2.pdb

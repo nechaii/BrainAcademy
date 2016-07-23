@@ -1,0 +1,6 @@
+E:\mnechai\Nechay_Mykola_8_CalcDel\Calculyator\bin\Debug\Calculyator.exe.config
+E:\mnechai\Nechay_Mykola_8_CalcDel\Calculyator\obj\Debug\Calculyator.csprojResolveAssemblyReference.cache
+E:\mnechai\Nechay_Mykola_8_CalcDel\Calculyator\bin\Debug\Calculyator.exe
+E:\mnechai\Nechay_Mykola_8_CalcDel\Calculyator\bin\Debug\Calculyator.pdb
+E:\mnechai\Nechay_Mykola_8_CalcDel\Calculyator\obj\Debug\Calculyator.exe
+E:\mnechai\Nechay_Mykola_8_CalcDel\Calculyator\obj\Debug\Calculyator.pdb

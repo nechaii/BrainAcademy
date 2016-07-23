@@ -1,0 +1,12 @@
+E:\mnechai\4_ILibraryUser\LibraryUser\bin\Debug\LibraryUser.exe.config
+E:\mnechai\4_ILibraryUser\LibraryUser\bin\Debug\LibraryUser.exe
+E:\mnechai\4_ILibraryUser\LibraryUser\bin\Debug\LibraryUser.pdb
+E:\mnechai\4_ILibraryUser\LibraryUser\obj\Debug\LibraryUser.csprojResolveAssemblyReference.cache
+E:\mnechai\4_ILibraryUser\LibraryUser\obj\Debug\LibraryUser.exe
+E:\mnechai\4_ILibraryUser\LibraryUser\obj\Debug\LibraryUser.pdb
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryUser\bin\Debug\LibraryUser.exe.config
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryUser\obj\Debug\LibraryUser.exe
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryUser\obj\Debug\LibraryUser.pdb
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryUser\bin\Debug\LibraryUser.exe
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryUser\bin\Debug\LibraryUser.pdb
+C:\BrainAcademy\Lab\1.2 Object oriented fundamentals\4_ILibraryUser\LibraryUser\obj\Debug\LibraryUser.csprojResolveAssemblyReference.cache

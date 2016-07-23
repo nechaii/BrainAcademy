@@ -1,0 +1,11 @@
+E:\mnechai\AirplaneSolution\AirpplaneApp\bin\Debug\AirpplaneApp.exe.config
+E:\mnechai\AirplaneSolution\AirpplaneApp\bin\Debug\AirpplaneApp.exe
+E:\mnechai\AirplaneSolution\AirpplaneApp\bin\Debug\AirpplaneApp.pdb
+E:\mnechai\AirplaneSolution\AirpplaneApp\obj\Debug\AirpplaneApp.csprojResolveAssemblyReference.cache
+E:\mnechai\AirplaneSolution\AirpplaneApp\obj\Debug\AirpplaneApp.exe
+E:\mnechai\AirplaneSolution\AirpplaneApp\obj\Debug\AirpplaneApp.pdb
+E:\mnechai\AirplaneSolution\AirpplaneApp\bin\Debug\AirplaneLibrary.dll
+E:\mnechai\AirplaneSolution\AirpplaneApp\bin\Debug\AirplaneLibrary.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\bin\Debug\AirpplaneApp.exe.config
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\obj\Debug\AirpplaneApp.exe
+C:\BrainAcademy\Lab\AirplaneSolution\AirpplaneApp\obj\Debug\AirpplaneApp.pdb

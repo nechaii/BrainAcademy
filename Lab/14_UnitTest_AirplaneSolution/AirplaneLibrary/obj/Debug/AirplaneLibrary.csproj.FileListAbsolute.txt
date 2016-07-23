@@ -1,0 +1,14 @@
+E:\mnechai\AirplaneSolution\AirplaneLibrary\bin\Debug\AirplaneLibrary.dll
+E:\mnechai\AirplaneSolution\AirplaneLibrary\bin\Debug\AirplaneLibrary.pdb
+E:\mnechai\AirplaneSolution\AirplaneLibrary\obj\Debug\AirplaneLibrary.dll
+E:\mnechai\AirplaneSolution\AirplaneLibrary\obj\Debug\AirplaneLibrary.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLibrary\bin\Debug\AirplaneLibrary.dll
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLibrary\bin\Debug\AirplaneLibrary.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLibrary\bin\Debug\AirplaneBehavior.dll
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLibrary\bin\Debug\AirplaneBehavior.pdb
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLibrary\obj\Debug\AirplaneLibrary.csprojResolveAssemblyReference.cache
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLibrary\obj\Debug\AirplaneLibrary.dll
+C:\BrainAcademy\Lab\AirplaneSolution\AirplaneLibrary\obj\Debug\AirplaneLibrary.pdb
+E:\mnechai\AirplaneSolution\AirplaneLibrary\bin\Debug\AirplaneBehavior.dll
+E:\mnechai\AirplaneSolution\AirplaneLibrary\bin\Debug\AirplaneBehavior.pdb
+E:\mnechai\AirplaneSolution\AirplaneLibrary\obj\Debug\AirplaneLibrary.csprojResolveAssemblyReference.cache

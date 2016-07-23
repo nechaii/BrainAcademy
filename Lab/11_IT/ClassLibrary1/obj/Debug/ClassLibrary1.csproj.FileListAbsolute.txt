@@ -1,0 +1,4 @@
+E:\mnechai\Nechay_Mykola_11\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\mnechai\Nechay_Mykola_11\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\mnechai\Nechay_Mykola_11\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\mnechai\Nechay_Mykola_11\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

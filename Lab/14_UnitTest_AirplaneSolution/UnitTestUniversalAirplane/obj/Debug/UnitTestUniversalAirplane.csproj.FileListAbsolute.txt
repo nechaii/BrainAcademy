@@ -1,0 +1,10 @@
+E:\mnechai\AirplaneSolution\UnitTestUniversalAirplane\bin\Debug\UnitTestUniversalAirplane.dll
+E:\mnechai\AirplaneSolution\UnitTestUniversalAirplane\bin\Debug\UnitTestUniversalAirplane.pdb
+E:\mnechai\AirplaneSolution\UnitTestUniversalAirplane\bin\Debug\AirplaneLibrary.dll
+E:\mnechai\AirplaneSolution\UnitTestUniversalAirplane\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\mnechai\AirplaneSolution\UnitTestUniversalAirplane\bin\Debug\AirplaneBehavior.dll
+E:\mnechai\AirplaneSolution\UnitTestUniversalAirplane\bin\Debug\AirplaneLibrary.pdb
+E:\mnechai\AirplaneSolution\UnitTestUniversalAirplane\bin\Debug\AirplaneBehavior.pdb
+E:\mnechai\AirplaneSolution\UnitTestUniversalAirplane\obj\Debug\UnitTestUniversalAirplane.csprojResolveAssemblyReference.cache
+E:\mnechai\AirplaneSolution\UnitTestUniversalAirplane\obj\Debug\UnitTestUniversalAirplane.dll
+E:\mnechai\AirplaneSolution\UnitTestUniversalAirplane\obj\Debug\UnitTestUniversalAirplane.pdb

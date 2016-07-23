@@ -1,0 +1,4 @@
+E:\mnechai\Nechay_Mykola_11\Couple\bin\Debug\Couple.dll
+E:\mnechai\Nechay_Mykola_11\Couple\bin\Debug\Couple.pdb
+E:\mnechai\Nechay_Mykola_11\Couple\obj\Debug\Couple.dll
+E:\mnechai\Nechay_Mykola_11\Couple\obj\Debug\Couple.pdb

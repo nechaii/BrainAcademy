@@ -1,0 +1,5 @@
+E:\mnechai\Nechay_Mykola_11\MorzeSound\bin\Debug\MorzeSound.exe.config
+E:\mnechai\Nechay_Mykola_11\MorzeSound\bin\Debug\MorzeSound.exe
+E:\mnechai\Nechay_Mykola_11\MorzeSound\bin\Debug\MorzeSound.pdb
+E:\mnechai\Nechay_Mykola_11\MorzeSound\obj\Debug\MorzeSound.exe
+E:\mnechai\Nechay_Mykola_11\MorzeSound\obj\Debug\MorzeSound.pdb

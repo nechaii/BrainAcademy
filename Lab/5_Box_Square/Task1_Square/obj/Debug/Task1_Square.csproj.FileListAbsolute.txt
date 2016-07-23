@@ -1,0 +1,5 @@
+E:\mnechai\5_Square\Task1_Square\bin\Debug\Task1_Square.exe.config
+E:\mnechai\5_Square\Task1_Square\bin\Debug\Task1_Square.exe
+E:\mnechai\5_Square\Task1_Square\bin\Debug\Task1_Square.pdb
+E:\mnechai\5_Square\Task1_Square\obj\Debug\Task1_Square.exe
+E:\mnechai\5_Square\Task1_Square\obj\Debug\Task1_Square.pdb
