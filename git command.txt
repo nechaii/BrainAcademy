@@ -1,3 +1,9 @@
+--push to GitHub
+
 $ git remote add origin https://github.com/nechaii/BrainAcademy.git
 
 $ git push -u origin master
+
+
+--get from GitHub
+$ git clone https://github.com/nechaii/BrainAcademy.git
