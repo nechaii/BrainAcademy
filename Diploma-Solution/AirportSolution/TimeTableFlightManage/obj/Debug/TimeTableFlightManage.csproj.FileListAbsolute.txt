@@ -1,0 +1,10 @@
+C:\BrainAcademy\AirportSolution\TimeTableFlightManage\bin\Debug\TimeTableFlightManage.exe.config
+C:\BrainAcademy\AirportSolution\TimeTableFlightManage\bin\Debug\TimeTableFlightManage.exe
+C:\BrainAcademy\AirportSolution\TimeTableFlightManage\bin\Debug\TimeTableFlightManage.pdb
+C:\BrainAcademy\AirportSolution\TimeTableFlightManage\bin\Debug\Airport.Model.Initialize.dll
+C:\BrainAcademy\AirportSolution\TimeTableFlightManage\bin\Debug\Airport.Model.dll
+C:\BrainAcademy\AirportSolution\TimeTableFlightManage\bin\Debug\Airport.Model.Initialize.pdb
+C:\BrainAcademy\AirportSolution\TimeTableFlightManage\bin\Debug\Airport.Model.pdb
+C:\BrainAcademy\AirportSolution\TimeTableFlightManage\obj\Debug\TimeTableFlightManage.csprojResolveAssemblyReference.cache
+C:\BrainAcademy\AirportSolution\TimeTableFlightManage\obj\Debug\TimeTableFlightManage.exe
+C:\BrainAcademy\AirportSolution\TimeTableFlightManage\obj\Debug\TimeTableFlightManage.pdb

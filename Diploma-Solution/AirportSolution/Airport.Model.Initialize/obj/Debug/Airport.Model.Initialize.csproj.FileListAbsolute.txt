@@ -1,0 +1,7 @@
+C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\obj\Debug\Airport.Model.Initialize.csprojResolveAssemblyReference.cache
+C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\bin\Debug\Airport.Model.Initialize.dll
+C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\bin\Debug\Airport.Model.Initialize.pdb
+C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\bin\Debug\Airport.Model.dll
+C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\bin\Debug\Airport.Model.pdb
+C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\obj\Debug\Airport.Model.Initialize.dll
+C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\obj\Debug\Airport.Model.Initialize.pdb
