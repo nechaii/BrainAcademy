@@ -1,3 +1,6 @@
+﻿Git - основы и пример командной работы
+https://youtu.be/gd74R-rvfsY
+
 --push to GitHub
 
 $ git remote add origin https://github.com/nechaii/BrainAcademy.git
@@ -6,4 +9,4 @@ $ git push -u origin master
 
 
 --get from GitHub
-$ git clone https://github.com/nechaii/BrainAcademy.git
+$ git clone https://github.com/nechaii/BrainAcademy.git 
