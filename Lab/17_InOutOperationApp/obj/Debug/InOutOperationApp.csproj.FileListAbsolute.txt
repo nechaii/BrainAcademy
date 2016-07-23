@@ -1,0 +1,5 @@
+E:\mnechai\DataAccess\InOutOperationApp\bin\Debug\InOutOperationApp.exe.config
+E:\mnechai\DataAccess\InOutOperationApp\bin\Debug\InOutOperationApp.exe
+E:\mnechai\DataAccess\InOutOperationApp\bin\Debug\InOutOperationApp.pdb
+E:\mnechai\DataAccess\InOutOperationApp\obj\Debug\InOutOperationApp.exe
+E:\mnechai\DataAccess\InOutOperationApp\obj\Debug\InOutOperationApp.pdb
