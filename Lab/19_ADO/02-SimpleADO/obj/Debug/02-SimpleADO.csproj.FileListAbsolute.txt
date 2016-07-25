@@ -1,0 +1,5 @@
+E:\mnechai\ADO\02-SimpleADO\bin\Debug\02-SimpleADO.exe.config
+E:\mnechai\ADO\02-SimpleADO\bin\Debug\02-SimpleADO.exe
+E:\mnechai\ADO\02-SimpleADO\bin\Debug\02-SimpleADO.pdb
+E:\mnechai\ADO\02-SimpleADO\obj\Debug\02-SimpleADO.exe
+E:\mnechai\ADO\02-SimpleADO\obj\Debug\02-SimpleADO.pdb

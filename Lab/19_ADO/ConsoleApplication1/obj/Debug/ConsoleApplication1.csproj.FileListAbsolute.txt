@@ -1,0 +1,5 @@
+E:\mnechai\ADO\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\mnechai\ADO\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\mnechai\ADO\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\mnechai\ADO\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\mnechai\ADO\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,9 @@
+E:\mnechai\ADO\02-SimpleEntityFrameWork\bin\Debug\02-SimpleEntityFrameWork.exe.config
+E:\mnechai\ADO\02-SimpleEntityFrameWork\bin\Debug\02-SimpleEntityFrameWork.exe
+E:\mnechai\ADO\02-SimpleEntityFrameWork\bin\Debug\02-SimpleEntityFrameWork.pdb
+E:\mnechai\ADO\02-SimpleEntityFrameWork\bin\Debug\EntityFramework.dll
+E:\mnechai\ADO\02-SimpleEntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+E:\mnechai\ADO\02-SimpleEntityFrameWork\bin\Debug\EntityFramework.xml
+E:\mnechai\ADO\02-SimpleEntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+E:\mnechai\ADO\02-SimpleEntityFrameWork\obj\Debug\02-SimpleEntityFrameWork.exe
+E:\mnechai\ADO\02-SimpleEntityFrameWork\obj\Debug\02-SimpleEntityFrameWork.pdb
