@@ -2,11 +2,24 @@
 https://youtu.be/gd74R-rvfsY
 
 --push to GitHub
-
 $ git remote add origin https://github.com/nechaii/BrainAcademy.git
-
 $ git push -u origin master
 
-
 --get from GitHub
-$ git clone https://github.com/nechaii/BrainAcademy.git 
+$ git clone https://github.com/nechaii/BrainAcademy.git
+
+--создание алиаса удаленного репозитория
+$ git remote add BA-GitHub https://github.com/nechaii/BrainAcademy.git
+
+--создание ветки 
+$ git branch trunc
+
+--смена ветки 
+$ git checkout testing
+
+--зиливка из удаленного репозитория
+$ git fetch origin или $ git fetch BA-GitHub
+
+--выкачка данных из репозитория
+$ git checkout master
+$ git pull
