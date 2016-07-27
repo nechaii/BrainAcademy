@@ -1,0 +1,5 @@
+E:\mnechai\ADO\03-TransactionApp\bin\Debug\03-TransactionApp.exe.config
+E:\mnechai\ADO\03-TransactionApp\bin\Debug\03-TransactionApp.exe
+E:\mnechai\ADO\03-TransactionApp\bin\Debug\03-TransactionApp.pdb
+E:\mnechai\ADO\03-TransactionApp\obj\Debug\03-TransactionApp.exe
+E:\mnechai\ADO\03-TransactionApp\obj\Debug\03-TransactionApp.pdb

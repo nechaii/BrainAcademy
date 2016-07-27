@@ -3,3 +3,4 @@ E:\mnechai\ADO\01-Serializable\bin\Debug\01-Serializable.exe
 E:\mnechai\ADO\01-Serializable\bin\Debug\01-Serializable.pdb
 E:\mnechai\ADO\01-Serializable\obj\Debug\01-Serializable.exe
 E:\mnechai\ADO\01-Serializable\obj\Debug\01-Serializable.pdb
+E:\mnechai\ADO\01-Serializable\obj\Debug\01-Serializable.csprojResolveAssemblyReference.cache
