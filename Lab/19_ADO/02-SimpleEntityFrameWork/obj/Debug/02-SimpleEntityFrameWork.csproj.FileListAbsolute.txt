@@ -8,3 +8,13 @@ E:\mnechai\ADO\02-SimpleEntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
 E:\mnechai\ADO\02-SimpleEntityFrameWork\obj\Debug\02-SimpleEntityFrameWork.exe
 E:\mnechai\ADO\02-SimpleEntityFrameWork\obj\Debug\02-SimpleEntityFrameWork.pdb
 E:\mnechai\ADO\02-SimpleEntityFrameWork\obj\Debug\02-SimpleEntityFrameWork.csprojResolveAssemblyReference.cache
+D:\Git-WorkingDirectory\BrainAcademy\Lab\19_ADO\02-SimpleEntityFrameWork\bin\Debug\02-SimpleEntityFrameWork.exe.config
+D:\Git-WorkingDirectory\BrainAcademy\Lab\19_ADO\02-SimpleEntityFrameWork\bin\Debug\02-SimpleEntityFrameWork.exe
+D:\Git-WorkingDirectory\BrainAcademy\Lab\19_ADO\02-SimpleEntityFrameWork\bin\Debug\02-SimpleEntityFrameWork.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Lab\19_ADO\02-SimpleEntityFrameWork\bin\Debug\EntityFramework.dll
+D:\Git-WorkingDirectory\BrainAcademy\Lab\19_ADO\02-SimpleEntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git-WorkingDirectory\BrainAcademy\Lab\19_ADO\02-SimpleEntityFrameWork\bin\Debug\EntityFramework.xml
+D:\Git-WorkingDirectory\BrainAcademy\Lab\19_ADO\02-SimpleEntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git-WorkingDirectory\BrainAcademy\Lab\19_ADO\02-SimpleEntityFrameWork\obj\Debug\02-SimpleEntityFrameWork.csprojResolveAssemblyReference.cache
+D:\Git-WorkingDirectory\BrainAcademy\Lab\19_ADO\02-SimpleEntityFrameWork\obj\Debug\02-SimpleEntityFrameWork.exe
+D:\Git-WorkingDirectory\BrainAcademy\Lab\19_ADO\02-SimpleEntityFrameWork\obj\Debug\02-SimpleEntityFrameWork.pdb

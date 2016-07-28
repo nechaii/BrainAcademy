@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{96121E8A-313C-4FDF-9E9F-BD28F18A56CF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-SimpleEntityFrameWork", "02-SimpleEntityFrameWork\02-SimpleEntityFrameWork.csproj", "{DA5683EB-BC19-41BE-A3E0-C7169AB7A185}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{89DACEC9-E9E9-405B-AA8E-9A11ADEC2E83}"
@@ -21,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{96121E8A-313C-4FDF-9E9F-BD28F18A56CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96121E8A-313C-4FDF-9E9F-BD28F18A56CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96121E8A-313C-4FDF-9E9F-BD28F18A56CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96121E8A-313C-4FDF-9E9F-BD28F18A56CF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DA5683EB-BC19-41BE-A3E0-C7169AB7A185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DA5683EB-BC19-41BE-A3E0-C7169AB7A185}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA5683EB-BC19-41BE-A3E0-C7169AB7A185}.Release|Any CPU.ActiveCfg = Release|Any CPU

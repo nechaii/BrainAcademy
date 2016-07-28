@@ -11,7 +11,8 @@ namespace _03_TransactionApp
 
     class SimpleWorkTransaction
     {
-        string _cn = "Data Source=DESKTOP-5IF7E5B;Initial Catalog=Northwind;Integrated Security=True; Connect timeout=10;";
+        string _cn = "Data Source=DEV01;Initial Catalog=Northwind;Integrated Security=True; Connect timeout=10;";
+        //DESKTOP-5IF7E5B
 
         public void SimpleTran()
         {
@@ -27,7 +28,7 @@ namespace _03_TransactionApp
                 _sqlInsert.Connection = cn;
                 _sqlInsert.Connection.Open();
 
-                _tran = cn.BeginTransaction("insert tran");
+                _tran = cn.BeginTransaction(IsolationLevel.Serializable, "insert tran");
 
                 try
                 {
