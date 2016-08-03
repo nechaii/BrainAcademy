@@ -24,28 +24,28 @@ namespace Airport.Model.Initialize
 
             for (int i = 1; i <= 27; i++)
             {
-                using (Customer _customer = new Customer())
+                Customer _customer = new Customer()
                 {
-                    _customer.Id = i;
-                    _customer.FirstName = "Jo_BotName-" + i.ToString();
-                    _customer.MiddleName = "Jo_BotmiddleName-" + i.ToString();
-                    _customer.LastName = "Jo_BotLastName-" + i.ToString();
-                    _customer.DocumentSeries = "A-"+i.ToString();
-                    _customer.DocumentNum = "00" + i.ToString();
-                    _customer.DocType = DocumentType.Passport;
-                    _customer.CustomerSex = Sex.Male;
-                    _customer.DateBorn = new DateTime(1985, _ran.Next(), _ran.Next(20));
-                    _customer.Nationality = "Ukrainian";
-                    _customer.BoardingCard = new BoardingCard() {
+                    Id = i,
+                    FirstName = "Jo_BotName-" + i.ToString(),
+                    MiddleName = "Jo_BotmiddleName-" + i.ToString(),
+                    LastName = "Jo_BotLastName-" + i.ToString(),
+                    DocumentSeries = "A-" + i.ToString(),
+                    DocumentNum = "00" + i.ToString(),
+                    DocType = DocumentType.Passport,
+                    CustomerSex = Sex.Male,
+                    DateBorn = new DateTime(1985, 01, 01),
+                    Nationality = "Ukrainian",
+                    BoardingCard = new BoardingCard()
+                    {
                         Id = i,
                         Price = 45.27,
                         SeatType = SeatType.Econom,
-                        Status =BoardingCardStatus.Sold,
-                        FlightNum = FlightNumData.FlightNumFill().Where(p => p.Key == 3).Select(p => p.Value).FirstOrDefault(),
-                    };
-
-                    _flightDataList.Add(_customer);
-                }                
+                        Status = BoardingCardStatus.Sold,
+                        FlightNum = FlightNumData.FlightNumFill().Where(p => p.Key == 3).Select(p => p.Value).FirstOrDefault()
+                    }
+                };
+                    _flightDataList.Add(_customer);              
             }
             return _flightDataList;
         }
@@ -57,56 +57,55 @@ namespace Airport.Model.Initialize
 
             for (int i = 1; i <= 50; i++)
             {
-                using (Customer _customer = new Customer())
+                Customer _customer = new Customer()
                 {
-                    _customer.Id = i;
-                    _customer.FirstName = "Tom_BotName-" + i.ToString();
-                    _customer.MiddleName = "BotmiddleName-" + i.ToString();
-                    _customer.LastName = "BotLastName-" + i.ToString();
-                    _customer.DocumentSeries = "A-" + i.ToString();
-                    _customer.DocumentNum = "00" + i.ToString();
-                    _customer.DocType = DocumentType.Passport;
-                    _customer.CustomerSex = Sex.Male;
-                    _customer.DateBorn = new DateTime(1985, _ran.Next(), _ran.Next(20));
-                    _customer.Nationality = "Ukrainian";
-                    _customer.BoardingCard = new BoardingCard()
+                    Id = i,
+                    FirstName = "Tom_BotName-" + i.ToString(),
+                    MiddleName = "BotmiddleName-" + i.ToString(),
+                    LastName = "BotLastName-" + i.ToString(),
+                    DocumentSeries = "A-" + i.ToString(),
+                    DocumentNum = "00" + i.ToString(),
+                    DocType = DocumentType.Passport,
+                    CustomerSex = Sex.Male,
+                    DateBorn = new DateTime(1986, 02, 02),
+                    Nationality = "Ukrainian",
+                    BoardingCard = new BoardingCard()
                     {
                         Id = i,
                         Price = 45.27,
                         SeatType = SeatType.Econom,
                         Status = BoardingCardStatus.Sold,
                         FlightNum = FlightNumData.FlightNumFill().Where(p => p.Key == 4).Select(p => p.Value).FirstOrDefault(),
-                    };
+                    }
+                };
 
                     _flightDataList.Add(_customer);
-                }
             }
 
             for (int i = 1; i <= 30; i++)
             {
-                using (Customer _customer = new Customer())
+                Customer _customer = new Customer()
                 {
-                    _customer.Id = i;
-                    _customer.FirstName = "BotName-" + i.ToString();
-                    _customer.MiddleName = "BotmiddleName-" + i.ToString();
-                    _customer.LastName = "BotLastName-" + i.ToString();
-                    _customer.DocumentSeries = "A-" + i.ToString();
-                    _customer.DocumentNum = "00" + i.ToString();
-                    _customer.DocType = DocumentType.Passport;
-                    _customer.CustomerSex = Sex.Male;
-                    _customer.DateBorn = new DateTime(1985, _ran.Next(), _ran.Next(20));
-                    _customer.Nationality = "Ukrainian";
-                    _customer.BoardingCard = new BoardingCard()
+                    Id = i,
+                    FirstName = "BotName-" + i.ToString(),
+                    MiddleName = "BotmiddleName-" + i.ToString(),
+                    LastName = "BotLastName-" + i.ToString(),
+                    DocumentSeries = "A-" + i.ToString(),
+                    DocumentNum = "00" + i.ToString(),
+                    DocType = DocumentType.Passport,
+                    CustomerSex = Sex.Male,
+                    DateBorn = new DateTime(1987, 03, 03),
+                    Nationality = "Ukrainian",
+                    BoardingCard = new BoardingCard()
                     {
                         Id = i,
                         Price = 125.27,
                         SeatType = SeatType.Turist,
                         Status = BoardingCardStatus.Sold,
                         FlightNum = FlightNumData.FlightNumFill().Where(p => p.Key == 4).Select(p => p.Value).FirstOrDefault(),
-                    };
-
+                    }
+                };
                     _flightDataList.Add(_customer);
-                }
             }
             return _flightDataList;
         }

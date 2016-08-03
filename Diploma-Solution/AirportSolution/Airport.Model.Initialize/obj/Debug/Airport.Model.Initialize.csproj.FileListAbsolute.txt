@@ -5,3 +5,10 @@ C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\bin\Debug\Airport.Model
 C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\bin\Debug\Airport.Model.pdb
 C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\obj\Debug\Airport.Model.Initialize.dll
 C:\BrainAcademy\AirportSolution\Airport.Model.Initialize\obj\Debug\Airport.Model.Initialize.pdb
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model.Initialize\bin\Debug\Airport.Model.Initialize.dll
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model.Initialize\bin\Debug\Airport.Model.Initialize.pdb
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model.Initialize\bin\Debug\Airport.Model.dll
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model.Initialize\bin\Debug\Airport.Model.pdb
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model.Initialize\obj\Debug\Airport.Model.Initialize.csprojResolveAssemblyReference.cache
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model.Initialize\obj\Debug\Airport.Model.Initialize.dll
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model.Initialize\obj\Debug\Airport.Model.Initialize.pdb

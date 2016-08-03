@@ -3,3 +3,7 @@ C:\BrainAcademy\AirportSolution\Airport.Model\bin\Debug\Airport.Model.pdb
 C:\BrainAcademy\AirportSolution\Airport.Model\obj\Debug\Airport.Model.dll
 C:\BrainAcademy\AirportSolution\Airport.Model\obj\Debug\Airport.Model.pdb
 C:\BrainAcademy\AirportSolution\Airport.Model\obj\Debug\Airport.Model.csprojResolveAssemblyReference.cache
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\Airport.Model.dll
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\Airport.Model.pdb
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Debug\Airport.Model.dll
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Debug\Airport.Model.pdb
