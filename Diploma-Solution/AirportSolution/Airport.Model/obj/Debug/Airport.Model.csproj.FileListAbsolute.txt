@@ -7,3 +7,13 @@ E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bi
 E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\Airport.Model.pdb
 E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Debug\Airport.Model.dll
 E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Debug\Airport.Model.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\Airport.Model.dll.config
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\Airport.Model.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\Airport.Model.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\EntityFramework.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\EntityFramework.xml
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Debug\Airport.Model.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Debug\Airport.Model.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Debug\Airport.Model.csprojResolveAssemblyReference.cache

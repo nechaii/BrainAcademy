@@ -1,0 +1,10 @@
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\tst\bin\Debug\tst.dll.config
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\tst\bin\Debug\tst.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\tst\bin\Debug\tst.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\tst\bin\Debug\EntityFramework.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\tst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\tst\bin\Debug\EntityFramework.xml
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\tst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\tst\obj\Debug\tst.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\tst\obj\Debug\tst.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\tst\obj\Debug\tst.csprojResolveAssemblyReference.cache

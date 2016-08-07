@@ -5,9 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airport.Model", "Airport.Model\Airport.Model.csproj", "{E24B5E7B-5E70-46FE-97A1-07E86D28EEA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airport.Model.Initialize", "Airport.Model.Initialize\Airport.Model.Initialize.csproj", "{27906BBF-4120-46F4-9B8E-B724537C7BBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateDB-App", "CreateDB-App\CreateDB-App.csproj", "{BD0F8DA5-3E4E-4FBC-B671-B62B46122F6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTableFlightManage", "TimeTableFlightManage\TimeTableFlightManage.csproj", "{75BA586E-90FA-4CE9-B8F8-F28A038D07FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airport.Operation", "Airport.Operation\Airport.Operation.csproj", "{E05D0F3F-E5DA-4734-8260-6A1F22E75EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tst", "tst\tst.csproj", "{CC53D165-8E3B-43D4-981C-C4EFE2E4BFEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +21,18 @@ Global
 		{E24B5E7B-5E70-46FE-97A1-07E86D28EEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E24B5E7B-5E70-46FE-97A1-07E86D28EEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E24B5E7B-5E70-46FE-97A1-07E86D28EEA7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{27906BBF-4120-46F4-9B8E-B724537C7BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{27906BBF-4120-46F4-9B8E-B724537C7BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{27906BBF-4120-46F4-9B8E-B724537C7BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{27906BBF-4120-46F4-9B8E-B724537C7BBF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{75BA586E-90FA-4CE9-B8F8-F28A038D07FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75BA586E-90FA-4CE9-B8F8-F28A038D07FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75BA586E-90FA-4CE9-B8F8-F28A038D07FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75BA586E-90FA-4CE9-B8F8-F28A038D07FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0F8DA5-3E4E-4FBC-B671-B62B46122F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0F8DA5-3E4E-4FBC-B671-B62B46122F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0F8DA5-3E4E-4FBC-B671-B62B46122F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0F8DA5-3E4E-4FBC-B671-B62B46122F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05D0F3F-E5DA-4734-8260-6A1F22E75EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05D0F3F-E5DA-4734-8260-6A1F22E75EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05D0F3F-E5DA-4734-8260-6A1F22E75EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05D0F3F-E5DA-4734-8260-6A1F22E75EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC53D165-8E3B-43D4-981C-C4EFE2E4BFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC53D165-8E3B-43D4-981C-C4EFE2E4BFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC53D165-8E3B-43D4-981C-C4EFE2E4BFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC53D165-8E3B-43D4-981C-C4EFE2E4BFEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

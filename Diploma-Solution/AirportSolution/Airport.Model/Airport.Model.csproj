@@ -30,8 +30,19 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,21 +57,22 @@
     <Compile Include="AirplaneObject\SeatType.cs" />
     <Compile Include="BoardingCardObject\BoardingCard.cs" />
     <Compile Include="BoardingCardObject\BoardingCardStatus.cs" />
+    <Compile Include="CashBox.cs" />
     <Compile Include="CustomerObject\Customer.cs" />
     <Compile Include="CustomerObject\DocumentType.cs" />
     <Compile Include="CustomerObject\Sex.cs" />
     <Compile Include="Direct.cs" />
-    <Compile Include="AirportCashBox.cs" />
     <Compile Include="Flight.cs" />
+    <Compile Include="FlightNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TimeTableObject\FlightStatus.cs" />
     <Compile Include="TimeTableObject\Terminal.cs" />
     <Compile Include="TimeTableObject\TimeTable.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ZDataModel\ClassDiagram1.cd" />
+    <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

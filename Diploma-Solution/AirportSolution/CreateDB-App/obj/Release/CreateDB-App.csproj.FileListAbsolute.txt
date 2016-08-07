@@ -1,0 +1,12 @@
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Release\CreateDB-App.exe.config
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Release\CreateDB-App.exe
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Release\CreateDB-App.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Release\Airport.Model.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Release\EntityFramework.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Release\EntityFramework.SqlServer.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Release\Airport.Model.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Release\EntityFramework.xml
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Release\EntityFramework.SqlServer.xml
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\obj\Release\CreateDB-App.csprojResolveAssemblyReference.cache
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\obj\Release\CreateDB-App.exe
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\obj\Release\CreateDB-App.pdb

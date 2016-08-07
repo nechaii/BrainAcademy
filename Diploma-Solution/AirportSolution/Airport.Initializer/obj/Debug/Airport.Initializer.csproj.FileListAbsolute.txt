@@ -1,4 +1,0 @@
-C:\BrainAcademy\AirportSolution\Airport.Initializer\bin\Debug\Airport.Initializer.dll
-C:\BrainAcademy\AirportSolution\Airport.Initializer\bin\Debug\Airport.Initializer.pdb
-C:\BrainAcademy\AirportSolution\Airport.Initializer\obj\Debug\Airport.Initializer.dll
-C:\BrainAcademy\AirportSolution\Airport.Initializer\obj\Debug\Airport.Initializer.pdb

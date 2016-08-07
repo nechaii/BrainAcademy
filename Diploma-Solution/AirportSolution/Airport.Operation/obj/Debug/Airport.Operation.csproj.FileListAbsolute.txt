@@ -1,0 +1,7 @@
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Operation\bin\Debug\Airport.Operation.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Operation\bin\Debug\Airport.Operation.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Operation\bin\Debug\Airport.Model.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Operation\bin\Debug\Airport.Model.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Operation\obj\Debug\Airport.Operation.csprojResolveAssemblyReference.cache
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Operation\obj\Debug\Airport.Operation.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Operation\obj\Debug\Airport.Operation.pdb

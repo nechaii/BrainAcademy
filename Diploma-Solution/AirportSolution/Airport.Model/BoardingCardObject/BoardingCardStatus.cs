@@ -4,6 +4,7 @@
     {
         InStock=1,
         Sold,
-        Returned
+        Returned,
+        Reserved
     }
 }

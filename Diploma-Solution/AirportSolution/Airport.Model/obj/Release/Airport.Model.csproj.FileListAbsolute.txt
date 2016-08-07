@@ -1,0 +1,9 @@
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Release\Airport.Model.dll.config
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Release\Airport.Model.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Release\Airport.Model.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Release\EntityFramework.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Release\EntityFramework.SqlServer.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Release\EntityFramework.xml
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Release\EntityFramework.SqlServer.xml
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Release\Airport.Model.dll
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Release\Airport.Model.pdb
