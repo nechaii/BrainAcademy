@@ -12,3 +12,6 @@ D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-A
 D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\obj\Debug\CreateDB-App.pdb
 D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Debug\Airport.Operation.dll
 D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Debug\Airport.Operation.pdb
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\bin\Debug\CreateDB-App.exe.config
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\obj\Debug\CreateDB-App.exe
+E:\mnechai\GitHub\BrainAcademy\Diploma-Solution\AirportSolution\CreateDB-App\obj\Debug\CreateDB-App.pdb
