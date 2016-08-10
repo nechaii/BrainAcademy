@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>First page</title>
+    <meta />
+</head>
+
+<body style="background-color:aqua; ">
+    <h2>Welocome !</h2>
+    <br />
+    <!--<img id="img1" src="../Img/download.jpg" />-->
+    <form name="CalcForm" action="../HttpHandler/Handler1.ashx">
+        <span>X</span>
+        <input class="input" type="text" name="t1" id="t1" value="5" onchange="CheckType(document.CalcForm.t1.value)" />
+        <span>Y</span>
+        <input class="input" type="text" name="t2" value="3" />
+    </form>
+    <br />
+    <span>Operations</span><br />
+    <input class="input" type="button" id="bt2" value="+" onclick="Sum();"/>
+    <input class="input" type="button" id="bt2" value="-" onclick="Sub();" />
+    <input class="input" type="button" id="bt2" value="*" onclick="Mul();" />
+    <input class="input" type="button" id="bt2" value="/" onclick="Div();" />
+    <br />
+
+    <br />
+    <br />
+    <span>AJAX operations</span><br />
+    <input type="submit" value="AJAX-Calc!" name="btn1" />
+    <br />
+    
+    <script type="text/javascript">
+        
+            function Sum() {
+                try {
+                    CheckType(document.CalcForm.t1.value);
+                    CheckType(document.CalcForm.t2.value);
+
+                }
+                catch (err)
+                {
+                    alert(err.message);
+                    return;
+                }
+
+                var s = Number(document.CalcForm.t1.value) + Number(document.CalcForm.t2.value);                        
+                alert(s);
+            };
+
+            function Sub() {
+                try {
+                    CheckType(document.CalcForm.t1.value);
+                    CheckType(document.CalcForm.t2.value);
+
+                }
+                catch (err) {
+                    alert(err.message);
+                    return;
+                }
+
+                var s = Number(document.CalcForm.t1.value) - Number(document.CalcForm.t2.value);
+
+                alert(s);
+            };
+
+            function Mul() {
+                try {
+                    CheckType(document.CalcForm.t1.value);
+                    CheckType(document.CalcForm.t2.value);
+
+                }
+                catch (err) {
+                    alert(err.message);
+                    return;
+                }
+
+                var s = Number(document.CalcForm.t1.value) * Number(document.CalcForm.t2.value);
+
+                alert(s);
+            };
+
+            function Div() {
+                try {
+                    CheckType(document.CalcForm.t1.value);
+                    CheckType(document.CalcForm.t2.value);
+
+                }
+                catch (err) {
+                    alert(err.message);
+                    return;
+                }
+
+                var s = Number(document.CalcForm.t1.value) / Number(document.CalcForm.t2.value);
+
+                alert(s);
+            };
+        
+        
+
+            function CheckType(s) {
+                var p = TryParseInt(s, 0);
+                if (p == 0)
+                    throw new Error("Wrong type!");
+            };
+
+            function TryParseInt(str, defaultValue) {
+                var retValue = defaultValue;
+                if (str !== null) {
+                    if (str.length > 0) {
+                        if (!isNaN(str)) {
+                            retValue = parseInt(str);
+                        }
+                    }
+                }
+                return retValue;
+            };
+
+    </script>
+
+    <style type="text/css">
+        .input {
+            width:20px;
+        }
+
+    </style>
+
+</body>
+</html>
