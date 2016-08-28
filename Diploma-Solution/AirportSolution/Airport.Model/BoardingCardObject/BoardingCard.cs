@@ -30,15 +30,14 @@
         [Required]
         public decimal Price { get; set; }       
 
-        public int? SeatId { get; set; }
-
-        public Seat Seat { get; set; }
+        public int? SeatNum { get; set; }
 
         public int? CustomerId { get; set; }
 
         public Customer Customer { get; set; }
 
         public int? FlightId { get; set; }
+
         public Flight Flight { get; set; }
 
         public virtual CashBox CashBox { get; set; }

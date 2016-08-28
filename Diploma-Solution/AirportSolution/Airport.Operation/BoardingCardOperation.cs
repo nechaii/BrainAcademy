@@ -21,7 +21,7 @@ namespace Airport.Operation
                 DateLastOperation = DateTime.UtcNow,
                 BoardingCardStatus = BoardingCardStatus.InStock,
                 Price = 0,
-                Seat = seat,
+                SeatNum = seat.SeatNum,
                 Customer = null,
                 Flight = null
             };

@@ -1,4 +1,6 @@
 ﻿
+using Student.DB;
+using Student.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,8 +18,7 @@ using System.Windows.Shapes;
 
 namespace Student
 {
-    using Student.DB;
-    using System.Data.Entity;
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
@@ -27,16 +28,23 @@ namespace Student
         {
             InitializeComponent();
 
-            using (StudentDB studentDB = new StudentDB())
+            using (StudentDB db = new StudentDB())
             {
-                Database.SetInitializer<StudentDB>(new StudentDBInit());
+                db.Configuration.LazyLoadingEnabled = true;
+                IQueryable<Group> grp = db.Groups;
 
-                MessageBoxResult result = MessageBox.Show("Do you want to close this window?", "Confirmation", MessageBoxButton.YesNo, MessageBoxImage.Question);
-                if (result == MessageBoxResult.Yes)
+                foreach (var p in grp.Select(p => p.Student))
                 {
-                    Application.Current.Shutdown();
+                    ;
                 }
+
             }
+
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

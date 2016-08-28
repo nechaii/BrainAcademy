@@ -18,14 +18,15 @@
         [Column("Created", TypeName = "datetime2")]
         public DateTime DateAdded { get; set; }
 
-        [Column(TypeName = "datetime2")]
+        [Column(TypeName = "datetime2"), DataType(DataType.DateTime), Display(Name = "Departure")]
         public DateTime? DepartureTime { get; set; }
 
-        [Column(TypeName = "datetime2")]
+        [Column(TypeName = "datetime2"), DataType(DataType.DateTime), Display(Name = "Arrival")]
         public DateTime? ArrivalTime { get; set; }
 
         public FlightStatus FlightStatus { get; set; }
 
+        [Display(Name = "Flight")]
         public FlightNumber FlightNumber { get; set; }
 
         public Direct Direct { get; set; }
@@ -38,6 +39,7 @@
         [MaxLength(100), Required]
         public string ToPlace { get; set; }
 
+        [ScaffoldColumn(false)] // Исключает свойство из генерируемой HTML разметки.
         public int? AirplaneId { get; set; }
         public Airplane Airplane { get; set; }
 

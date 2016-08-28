@@ -1,0 +1,82 @@
+﻿@model Airport.Model.BoardingCardObject.BoardingCard
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>BoardingCard</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CashBox.Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CashBox.Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Customer.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Customer.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Flight.FromPlace)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Flight.FromPlace)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateAdded)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateAdded)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateLastOperation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateLastOperation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BoardingCardStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BoardingCardStatus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SeatNum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SeatNum)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

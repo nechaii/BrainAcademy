@@ -5,24 +5,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Student.DB
+namespace SimpleRightInitializationDB
 {
+    using Model;
     using System.Data.Entity;
     using System.IO;
-    using Student.Model;
 
-    public class StudentDB: DbContext
+    class ModelInitializer: DbContext
     {
-        public DbSet<Student> Students { get; set; }
-        public DbSet<Group> Group { get; set; }
+        static ModelInitializer()
+        {
+            Database.SetInitializer(new ContextInitializer());
+        }
 
-
-        public StudentDB(): base("StudentDBLocal")
+        public ModelInitializer() : base("name=StudentDBLocal")
         {
             string dbFolder = "App_Data";
             string appPath = Directory.GetCurrentDirectory();
             string pathToDb = Path.GetFullPath(Path.Combine(appPath, @"..\..\")) + dbFolder;
             AppDomain.CurrentDomain.SetData("DataDirectory", pathToDb);
         }
+
+        public virtual DbSet<Student> Students { get; set; }
+        public virtual DbSet<Group> Groups { get; set; }
     }
 }

@@ -18,7 +18,13 @@ namespace Airport.Model
         public int Id { get; set; }
 
         [Column(TypeName = "datetime2")]
-        public DateTime? DateLastOperation { get; set; }
+        public DateTime? DateOperation { get; set; }
+
+        [Required]
+        public decimal Sum { get; set; }
+
+        [Required]
+        public decimal Rate { get; set; }
 
         [Required]
         public virtual BoardingCard BoardingCard { get; set; }

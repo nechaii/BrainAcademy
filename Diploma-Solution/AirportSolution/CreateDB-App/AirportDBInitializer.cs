@@ -24,11 +24,21 @@ namespace CreateDB_App
      * в конфиг кидаем коннект к БД, в NuGet: Update-Database -Verbose
     */
 
-    public class AirportDBInitializer//: DropCreateDatabaseAlways<AirportContext>
+
+    //Команды для миграции 
+
+    //Install-Package EntityFramework  
+    //Enable-Migrations –EnableAutomaticMigrations
+    //Update-Database
+    //Add-Migration Name Migrations
+    //Update-Database –Verbose
+
+    public class AirportDBInitializer: DropCreateDatabaseIfModelChanges<AirportContext>
     {
-        public AirportDBInitializer()
+        protected override void Seed(AirportContext context)
         {
-            Database.SetInitializer(new DropCreateDatabaseAlways<AirportContext>());
+            base.Seed(context);
+            //Program.CreateAirLine();
         }
 
     }

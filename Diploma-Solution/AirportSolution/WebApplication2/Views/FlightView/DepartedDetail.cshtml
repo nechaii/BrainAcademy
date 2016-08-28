@@ -1,0 +1,10 @@
+﻿@model IEnumerable<WebApplication2.ModelsView.FlightViewDetail>
+
+@{ 
+    ViewBag.Title = "Alldeparted";
+
+    var grid = new WebGrid(source:Model, rowsPerPage:15);
+}
+
+<h2>All departed</h2>
+@grid.GetHtml(tableStyle: "table table-hover")

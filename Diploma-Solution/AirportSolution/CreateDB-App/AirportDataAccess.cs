@@ -21,6 +21,11 @@ namespace CreateDB_App
 
     public class AirportContext : DbContext
     {
+        static AirportContext()
+        {
+            Database.SetInitializer(new AirportDBInitializer());
+        }
+
         public AirportContext() : base("AirportDBLocal")
         {
             string dbFolder = "App_Data";
@@ -29,13 +34,20 @@ namespace CreateDB_App
             AppDomain.CurrentDomain.SetData("DataDirectory", pathToDb);
         }
 
-        public DbSet<Seat> Seats { get; set; }
-        public DbSet<Airplane> Airplanes { get; set; }
-        public DbSet<Airline> Airlines { get; set; }
-        public DbSet<Flight> Flights { get; set; }
-        public DbSet<BoardingCard> BoardingCards { get; set; }
-        public DbSet<Customer> Customers { get; set; }
-        public DbSet<TimeTable> TimeTables { get; set; }
-        public DbSet<CashBox> CashBoxes { get; set; }
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+
+           // modelBuilder.Entity<Seat>().HasMany(p => p.BoardingCard).WithOptional(e => e.Seat).HasForeignKey(h => h.SeatNum).WillCascadeOnDelete(false);
+            
+        }
+
+        public virtual DbSet<Seat> Seats { get; set; }
+        public virtual DbSet<Airplane> Airplanes { get; set; }
+        public virtual DbSet<Airline> Airlines { get; set; }
+        public virtual DbSet<Flight> Flights { get; set; }
+        public virtual DbSet<BoardingCard> BoardingCards { get; set; }
+        public virtual DbSet<Customer> Customers { get; set; }
+        public virtual DbSet<TimeTable> TimeTables { get; set; }
+        public virtual DbSet<CashBox> CashBoxes { get; set; }
     }
 }

@@ -26,12 +26,12 @@ namespace Airport.Operation
 
             return airplane;
         }
-        public List<Seat> CreateSeat(int count = 10, SeatType seatType = SeatType.Econom)
+        public List<Seat> CreateSeat(int count = 10, SeatType seatType = SeatType.Econom,int k=0)
         {
             List<Seat> seat = new List<Seat>(count);
             for (int i = 1; i <= count; i++)
             {
-                seat.Add(new Seat() { Num = i, SeatType = seatType });
+                seat.Add(new Seat() { SeatNum = i+k, SeatType = seatType });
             }
             return seat;
         }
@@ -44,6 +44,12 @@ namespace Airport.Operation
         public void AddSeat(Airplane airplane, Seat seat)
         {
             airplane.Seat.Add(seat);
+        }
+
+        public void BindToAirLine(Airline airline, ICollection<Airplane> airplane)
+        {
+            foreach(var item in airplane)
+                item.Airline = airline;
         }
 
 

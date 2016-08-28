@@ -1,0 +1,94 @@
+﻿@model IEnumerable<WebApplication2.ModelsView.TimeTableView>
+@using Airport.Model.TimeTableObject;
+
+@{
+    ViewBag.Title = "TimeTable";
+}
+
+<h2>TimeTable</h2>
+
+<div class="container">
+    <div class="row timetable-boarding">
+        <div class="col-xs-12">
+            <div class="well">
+                <table class="table table-hover">
+                    <thead>
+                        <tr class="text-warning active">
+                            <th>
+                                @Html.DisplayNameFor(m => m.FlightNumber)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(m => m.Terminal)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(m => m.FromPlace)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(m => m.ToPlace)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(m => m.ExpectedDepartureTime)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(m => m.ExpectedArrivalTime)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(m => m.Airline)
+                            </th>
+                        </tr>
+                    </thead>
+                    @if (Model.Where(m => m.FlightStatus == FlightStatus.Boarding).Count() > 0)
+                    {
+                        <tr class="text-info">
+                            <th colspan="7">Boarding</th>
+                        </tr>
+                        foreach (var item in Model.Where(p => p.FlightStatus == FlightStatus.Boarding))
+                        {
+                            @Html.Partial("_SimpleTable", item)
+                        }
+                    }
+                    @if (Model.Where(m => m.FlightStatus == FlightStatus.Expected).Count() > 0)
+                    {
+                        <tr class="text-info">
+                            <th colspan="7">Expected</th>
+                        </tr>
+                        foreach (var item in Model.Where(p => p.FlightStatus == FlightStatus.Expected))
+                        {
+                            @Html.Partial("_SimpleTable", item)
+                        }
+                    }
+                    @if (Model.Where(m => m.FlightStatus == FlightStatus.Delay).Count() > 0)
+                    {
+                        <tr class="text-info">
+                            <th colspan="7">Delay</th>
+                        </tr>
+                        foreach (var item in Model.Where(p => p.FlightStatus == FlightStatus.Delay))
+                        {
+                            @Html.Partial("_SimpleTable", item)
+                        }
+                    }
+                    @if (Model.Where(m => m.FlightStatus == FlightStatus.Arrived).Count() > 0)
+                    {
+                        <tr class="text-info">
+                            <th colspan="7">Arrived</th>
+                        </tr>
+                        foreach (var item in Model.Where(p => p.FlightStatus == FlightStatus.Arrived))
+                        {
+                            @Html.Partial("_SimpleTable", item)
+                        }
+                    }
+                    @if (Model.Where(m => m.FlightStatus == FlightStatus.Departed).Count() > 0)
+                    {
+                        <tr class="text-info">
+                            <th colspan="7">Departed</th>
+                        </tr>
+                        foreach (var item in Model.Where(p => p.FlightStatus == FlightStatus.Departed))
+                        {
+                            @Html.Partial("_SimpleTable", item)
+                        }
+                    }
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

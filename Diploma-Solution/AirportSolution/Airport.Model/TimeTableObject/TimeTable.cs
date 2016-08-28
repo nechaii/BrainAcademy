@@ -28,6 +28,9 @@
         [NotMapped]
         public string ToPlace { get { return this.Flight.ToPlace; } }
 
+        [NotMapped]
+        public string AirlineName { get { return this.Flight.Airplane.Airline.Name; } }
+
         [Required]
         public virtual Flight Flight { get; set; }     
     }

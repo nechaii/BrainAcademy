@@ -12,8 +12,8 @@
         [Key]
         public int Id { get; set; }
 
-        [Column("SeatNum", TypeName = "numeric")]
-        public int Num { get; set; }
+        //[Column("SeatNum", TypeName = "numeric")]
+        public int SeatNum { get; set; }
 
         [Required]
         public SeatType SeatType { get; set; }
@@ -23,11 +23,9 @@
 
         public virtual Airplane Airplane { get; set; }
 
-        public virtual ICollection<BoardingCard> BoardingCard { get; set; }
-
         public Seat()
         {
-            BoardingCard = new HashSet<BoardingCard>();
+
         }
     }
 }

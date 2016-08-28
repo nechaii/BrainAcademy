@@ -43,6 +43,7 @@
     <Compile Include="AirlineOperation.cs" />
     <Compile Include="AirplaneOperation.cs" />
     <Compile Include="BoardingCardOperation.cs" />
+    <Compile Include="CashBoxOperation.cs" />
     <Compile Include="CustomerOperation.cs" />
     <Compile Include="FlightOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

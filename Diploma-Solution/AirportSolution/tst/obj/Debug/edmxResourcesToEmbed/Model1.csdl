@@ -200,7 +200,7 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <EntityContainer Name="AirportDBEntities3" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Airlines" EntityType="Self.Airline" />
     <EntitySet Name="Airplanes" EntityType="Self.Airplane" />
     <EntitySet Name="BoardingCards" EntityType="Self.BoardingCard" />

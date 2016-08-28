@@ -1,0 +1,99 @@
+﻿@model IEnumerable<WebApplication2.ModelsView.FlightView>
+@using Airport.Model.TimeTableObject;
+
+@{
+    ViewBag.Title = "Flight";
+}
+
+<h2>Flights information</h2>
+
+<div class="container">
+    @if (Model.Where(m => m.FlightStatus == FlightStatus.Departed).Count() > 0)
+    {
+        <div id="divDeparted" class="row flights-departed">            
+            <a href="@Url.RouteUrl(new { action = "DepartedDetail", controller = "FlightView" })">
+                <div style="text-align:center; float: left; height:80px; width:100px;" class="btn btn-primary">
+                    <img style="width:70%;" src="~/Content/Image/Departed.png" />
+                    <h4>Departed</h4>
+                </div>
+            </a>
+                @foreach (var item in Model.Where(p => p.FlightStatus == FlightStatus.Departed))
+                {
+                    <div class="col-xs-4">
+                        <div class="well">
+                            <table class="table table-striped">
+                                <tr>
+                                    <th class="active">
+                                        @Html.DisplayNameFor(m => m.FlightNumber)
+                                    </th>
+                                    <td>
+                                        @Html.DisplayFor(m => item.FlightNumber)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th class="active">
+                                        @Html.DisplayNameFor(m => m.FromPlace)
+                                    </th>
+                                    <td>
+                                        @Html.DisplayFor(m => item.FromPlace) &#8211; @Html.DisplayFor(m => item.DepartureTime)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th class="active">
+                                        @Html.DisplayNameFor(m => m.ToPlace)
+                                    </th>
+                                    <td>
+                                        @Html.DisplayFor(m => item.ToPlace) &#8211; @Html.DisplayFor(m => item.ArrivalTime)
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                }
+            </div>
+    }
+    @if (Model.Where(m => m.FlightStatus == FlightStatus.Arrived).Count() > 0)
+    {
+        <div class="row flights-arrived">
+            <a href="@Url.RouteUrl(new { action = "ArrivedDetail", controller = "FlightView" })">
+                <div style="text-align:center; float: left; height:80px; width:100px;" class="btn btn-primary">
+                    <img style="width:70%;" src="~/Content/Image/Arrived.png" />
+                    <h4>Arrived</h4>
+                </div>
+            </a>
+                @foreach (var item in Model.Where(p => p.FlightStatus == FlightStatus.Arrived))
+                {
+                    <div class="col-xs-4">
+                        <div class="well">
+                            <table class="table table-striped">
+                                <tr>
+                                    <th class="active">
+                                        @Html.DisplayNameFor(m => m.FlightNumber)
+                                    </th>
+                                    <td>
+                                        @Html.DisplayFor(m => item.FlightNumber)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th class="active">
+                                        @Html.DisplayNameFor(m => m.FromPlace)
+                                    </th>
+                                    <td>
+                                        @Html.DisplayFor(m => item.FromPlace) &#8211; @Html.DisplayFor(m => item.DepartureTime)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th class="active">
+                                        @Html.DisplayNameFor(m => m.ToPlace)
+                                    </th>
+                                    <td>
+                                        @Html.DisplayFor(m => item.ToPlace) &#8211; @Html.DisplayFor(m => item.ArrivalTime)
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                }
+</div>
+    }
+</div>

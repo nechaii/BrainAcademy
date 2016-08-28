@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
@@ -8,10 +9,16 @@ using System.Windows;
 
 namespace Student
 {
+    using Student.DB;
+    using System.Data.Entity;
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
     public partial class App : Application
     {
+        public App()
+        {
+
+        }
     }
 }

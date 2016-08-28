@@ -8,18 +8,30 @@ using System.Threading.Tasks;
 namespace Airport.Operation
 {
     using Airport.Model.TimeTableObject;
+    using Model;
 
-    class TimeTableOperation
+    public class TimeTableOperation
     {
-        public TimeTable Create()
+        TimeTable Create(Flight flight)
         {
             TimeTable timeTable = new TimeTable()
             {
-                ExpectedDepartureTime = null,
-                ExpectedArrivalTime = null,
-                Flight = null
+                ExpectedDepartureTime = flight.DepartureTime,
+                ExpectedArrivalTime = flight.ArrivalTime,
+                Flight = flight
             };
 
+            return timeTable;
+        }
+
+        public ICollection<TimeTable> CreateTimeTable(ICollection<Flight> flight)
+        {
+            List<TimeTable> timeTable = new List<TimeTable>(flight.Count());
+
+            foreach (var item in flight)
+            {
+                timeTable.Add(Create(item));
+            }
             return timeTable;
         }
 

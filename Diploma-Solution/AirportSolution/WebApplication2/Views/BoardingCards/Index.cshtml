@@ -1,0 +1,45 @@
+﻿@model IEnumerable<WebApplication2.ModelsView.BoardingCardsView>
+
+@{
+    ViewBag.Title = "Index";
+    var gridSold = new WebGrid(source: @ViewBag.boardingCardsSold, rowsPerPage: 5);
+    var gridInStock = new WebGrid(source: @ViewBag.boardingCardsInStock, rowsPerPage: 10);
+}
+
+<h2>BoardingCards</h2>
+<div class="btn btn-info">@Html.ActionLink("Create New", "Create")</div>
+@*@Html.ActionLink("Create New", "Create", new { @class = "badge" })*@
+<hr />
+<strong>InStock</strong>
+<div class="container">
+    @gridInStock.GetHtml(
+    tableStyle: "table table-hover",
+    columns: gridInStock.Columns(
+        gridInStock.Column(columnName: "Id", header: "#", format: @<a href="@Url.RouteUrl(new { action = "Details", controller = "BoardingCards",  id = @item.Id })" class="btn btn-primary">Details</a>),
+        gridInStock.Column(columnName: "FirstName"),
+        gridInStock.Column(columnName: "DateAdded"),
+        gridInStock.Column(columnName: "DateLastOperation"),
+        gridInStock.Column(columnName: "BoardingCardStatus"),
+        gridInStock.Column(columnName: "Price"),
+        gridInStock.Column(columnName: "SeatNum"),
+        gridInStock.Column(columnName: "Operation", format: @<a href="@Url.RouteUrl(new { action = "Edit", controller = "BoardingCards",  id = @item.Id })" class="btn btn-danger">Edit</a>)
+        )
+    )
+</div>
+<hr />
+<strong>Sold</strong>
+<div class="container">
+    @gridSold.GetHtml(
+    tableStyle: "table table-hover",
+    columns: gridSold.Columns(
+        gridSold.Column(columnName: "Id", header: "#", format: @<a href="@Url.RouteUrl(new { action = "Details", controller = "BoardingCards",  id = @item.Id })" class="btn btn-primary">Details</a>),
+        gridSold.Column(columnName: "FirstName"),
+        gridSold.Column(columnName: "DateAdded"),
+        gridSold.Column(columnName: "DateLastOperation"),
+        gridSold.Column(columnName: "BoardingCardStatus"),
+        gridSold.Column(columnName: "Price"),
+        gridSold.Column(columnName: "SeatNum"),
+        gridSold.Column(columnName: "Operation", format: @<a href="@Url.RouteUrl(new { action = "Edit", controller = "BoardingCards",  id = @item.Id })" class="btn btn-danger">Edit</a>)
+        )
+    )
+</div>

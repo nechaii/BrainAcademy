@@ -1,0 +1,106 @@
+﻿@model Airport.Model.Flight
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Flight</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Airplane.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Airplane.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TimeTable.Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TimeTable.Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateAdded)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateAdded)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DepartureTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DepartureTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ArrivalTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ArrivalTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FlightStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FlightStatus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FlightNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FlightNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Direct)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Direct)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Terminal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Terminal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FromPlace)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FromPlace)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ToPlace)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ToPlace)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

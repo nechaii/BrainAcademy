@@ -14,7 +14,10 @@ namespace Student.DB
     {
         public StudentDBInit()
         {
-            
+            using (StudentDB studentDB = new StudentDB())
+            {
+                //Seed(studentDB);
+            }
         }
 
         protected override void Seed(StudentDB studentDB)
@@ -40,12 +43,15 @@ namespace Student.DB
             groupB.Student.Add(studentC);
             groupB.Student.Add(studentD);
 
-            ((List<Student>)groupC.Student).AddRange(new List<Student> { studentE, studentF, studentG, studentH });
+            groupC.Student.Add(studentE);
+            groupC.Student.Add(studentF);
+            groupC.Student.Add(studentG);
+            groupC.Student.Add(studentH);
+
 
             List<Group> groups = new List<Group> { groupA, groupB, groupC };
 
-            students.ForEach(p => studentDB.Students.Add(p));
-            groups.ForEach(p => studentDB.Group.Add(p));
+            groups.ForEach(p => studentDB.Groups.Add(p));
             studentDB.SaveChanges();
         }
 

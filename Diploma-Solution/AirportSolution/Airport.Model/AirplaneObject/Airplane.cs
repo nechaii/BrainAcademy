@@ -33,6 +33,7 @@
         public Airplane()
         {
             this.Seat = new HashSet<Seat>();
+            this.Flight = new HashSet<Flight>();
         }
     }
 }

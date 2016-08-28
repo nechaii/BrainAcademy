@@ -24,15 +24,5 @@ namespace Airport.Operation
 
             return airline;
         }
-
-        public void BindToAirplane(Airline airline, ICollection<Airplane> airplane)
-        {
-            airline.Airplane = airplane;
-        }
-
-        public void BindToAirplane(Airline airline, Airplane airplane)
-        {
-            airline.Airplane.Add(airplane);
-        }
     }
 }
