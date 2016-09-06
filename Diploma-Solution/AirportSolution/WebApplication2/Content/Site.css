@@ -22,3 +22,28 @@ select,
 textarea {
     max-width: 280px;
 }
+
+div .welcome {
+  position: absolute;
+  top: 7%;
+  padding-left: 2%;
+  float:left;
+  z-index:10;
+}
+
+.timeTable {
+  position: absolute;
+  top: 7%;
+  margin-left: 50%;
+  z-index:10;
+}
+
+.flights-info-ribbon {
+  position: absolute;
+  top: 10%;
+  margin-left:35%;
+  z-index:10;
+  width: 50%;
+  text-align: center;
+  opacity: 1;
+}

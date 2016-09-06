@@ -16,3 +16,4 @@ D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Mo
 D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\bin\Debug\EntityFramework.SqlServer.xml
 D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Debug\Airport.Model.dll
 D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Debug\Airport.Model.pdb
+D:\Git-WorkingDirectory\BrainAcademy\Diploma-Solution\AirportSolution\Airport.Model\obj\Debug\Airport.Model.csprojResolveAssemblyReference.cache

@@ -1,27 +1,32 @@
-﻿@{
-    ViewBag.Title = "My Airport";
+﻿@model IEnumerable<WebApplication2.ModelsView.TimeTableView>
+
+@{
+    ViewBag.Title = "Index";
+    WebGrid gridOnlineBoard = new WebGrid(source: Model, rowsPerPage: 5);
 }
 
+@{
+    ViewBag.Title = "My Airport";
+}
+@Styles.Render("~/Content/MyCss")
+
 <div class="container">
-    <div class="row">
-        <img style="width:100%; " src="~/Content/Image/HomeBackground.jpg" />
-        <div class="col-xs-6">
+        <img style="width:100%; opacity:0.7" src="~/Content/Image/HomeBackground.jpg" />
+        <div class="welcome">
             <h1>
-                Welcome to
+                Welcome
                 <br />
                 MyAirport
             </h1>
         </div>
-    </div>
 
-    <div class="row">
-        <div class="col-xs-6">
-            <h2>TimeTable</h2>
-            <p>Some short timetable</p>
+    <div class="flights-info-ribbon">
+      <h3>Online timetale</h3>
+        <div class="container">
+            @gridOnlineBoard.GetHtml(
+    tableStyle: "containerTable"
+    )
         </div>
-        <div class="col-xs-6">
-            <h2>Some an advertisements</h2>
-            <p>You can buy good knowledge in Brain Academy</p>
-        </div>
+        
     </div>
 </div>
